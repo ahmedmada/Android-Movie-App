@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Movie App</string>
+
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+
+    <string name="generic_error">Oops! Something went wrong,\nPlease try again later...</string>
+    <string name="not_find_error">Sorry! No movie was found,\nPlease try again...</string>
+
+    <string name="date_header">Date</string>
+
+</resources>
